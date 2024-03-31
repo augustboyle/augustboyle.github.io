@@ -1,2 +1,2 @@
-# augustboyle.github.io
-Evan Boyle
+# Evan Boyle
+Evan Boyle's personal website
